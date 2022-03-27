@@ -1,0 +1,8 @@
+prefix=/home/liz/robot/devel
+
+Name: voroshyloE
+Description: Description of voroshyloE
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

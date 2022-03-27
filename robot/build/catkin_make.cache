@@ -1,0 +1,2 @@
+project2:voroshyloE
+-DCATKIN_DEVEL_PREFIX=/home/liz/robot/devel -DCMAKE_INSTALL_PREFIX=/home/liz/robot/install -G Unix Makefiles
